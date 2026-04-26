@@ -3,14 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0077B5&text=Nadikatla%20Nehalika&fontSize=80&height=150&animation=fadeIn" />
 
 <p align="center">
-  <b>Artificial Intelligence & Machine Learning Student</b> <br> 
-  Sir M. Visvesvaraya Institute of Technology (Sir MVIT)
+  <b>Artificial Intelligence & Machine Learning Student @ Sir MVIT</b> <br> 
+  Full-Stack Developer | Java DSA Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nadikatla-nehalika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nehalikareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nehalikareddy?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nadikatla-nehalika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nehalikareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -18,27 +17,33 @@
 ---
 
 ### 🖋️ Profile
-I am a 6th-semester Engineering student focusing on **Software Development** and **Scalable Systems**. My expertise lies in building robust architectures using the **MERN stack** and I am currently mastering **Data Structures & Algorithms in Java** in preparation for the July 2026 placement season.
-
-- 🚀 **Featured Project:** **Nexus** — Real-time video conferencing platform.
-- 🏠 **Featured Project:** **Nestora** — Full-stack accommodation booking system.
-- 🏆 **Achievement:** 2nd Runner-Up at **Hackfest (National Level Hackathon)**.
-- 💃 **Interests:** Classical **Bharatanatyam** Dancer.
+I am a 6th-semester Engineering student focusing on **Software Architecture** and **Intelligent Systems**. I bridge the gap between robust **MERN stack** applications and algorithmic efficiency. Currently preparing for the 2026 placement season with a rigorous focus on **Java Data Structures**.
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Core Languages** | **Java (DSA)**, JavaScript (ES6+), Python, SQL |
-| **Web Technologies** | Node.js, Express.js, React 18, Socket.io, WebRTC |
-| **Databases** | **MongoDB Atlas**, Mongoose, MySQL (Basics) |
-| **Tools & Cloud** | Git, GitHub, Postman, Render, Cloudinary, Mapbox |
+**Languages & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Frameworks & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalikareddy&theme=transparent&area=true&hide_border=true&color=0077B5&height=300&width=1200" width="100%" />
@@ -52,6 +57,5 @@ I am a 6th-semester Engineering student focusing on **Software Development** and
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&text_color=888888" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&text_color=888888" />
 </div>
-
