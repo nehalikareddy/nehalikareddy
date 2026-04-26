@@ -39,7 +39,4 @@
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&custom_title=Coding%20Activity&hide_rank=true" />
 </p>
 
----
-<div align="center">
-  <p><i>"Building robust systems with discipline and code."</i></p>
-</div>
+
