@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF4380&text=Nadikatla%20Nehalika&fontSize=80&height=150&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF4380&text=Nadikatla%20Nehalika&fontSize=75&height=100&animation=fadeIn" />
 
 <h3 align="center">Full-Stack Developer | MERN & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nadikatla-nehalika" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nehalikareddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&custom_title=Coding%20Activity&hide_rank=true" />
 </p>
 
 ---
