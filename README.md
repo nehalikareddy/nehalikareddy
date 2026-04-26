@@ -38,6 +38,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&custom_title=Coding%20Activity&hide_rank=true" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&custom_title=Coding%20Activity&hide_rank=true" />
 </p>
 
