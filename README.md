@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF4380&text=Nadikatla%20Nehalika&fontSize=75&height=100&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF4380&text=Nadikatla%20Nehalika&fontSize=80&height=120&animation=twinkle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+AI+Enthusiast;Sir+MVIT+Undergraduate" alt="Typing SVG" />
+  
 <h3 align="center">Full-Stack Developer | MERN & AI Enthusiast</h3>
 
 <p align="center">
