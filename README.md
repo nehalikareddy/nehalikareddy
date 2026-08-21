@@ -52,8 +52,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical" />
-</p>
+
 
