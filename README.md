@@ -49,57 +49,6 @@ const nehalika = {
 
 ---
 
-### Tech Stack
-
-**Languages**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-
-**Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
-
-
-**Databases**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
-
-
-**AI & Retrieval**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-FF4380?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square" />
-
-
-**Tools & Testing**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-
----
-
 ### Featured Projects
 
 **Clarix — AI-Powered Legal Intelligence Platform**
