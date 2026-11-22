@@ -28,28 +28,21 @@
 ```javascript
 const nehalika = {
   pronouns: "she" | "her",
-
   code: ["JavaScript", "Python", "Java", "SQL", "HTML", "CSS"],
-
   tools: ["React", "Node.js", "Express", "Docker", "Jest", "Postman"],
-
   databases: ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB", "pgvector"],
-
   ai: ["LangChain", "LangGraph", "RAG", "Gemini API", "Anthropic API"],
-
   architecture: [
     "REST APIs",
     "Microservices",
     "RAG Pipelines",
     "Agentic Workflows"
   ],
-
   highlights: {
     hackfest: "2nd Runner-Up — National 36-Hour Hackathon (NMAMIT)",
     aiForBharat: "National Prototype Finalist — AWS & Hack2skill",
     education: "B.E. in AI & ML, Sir MVIT Bengaluru (Class of 2027)"
   },
-
   currentFocus: "Backend Systems, Concurrency & DSA in Java"
 };
 ```
