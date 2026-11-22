@@ -14,7 +14,21 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/B.E.AI%26_ML-Class_of_2027-1F2937?style=flat-square" alt="Class of 2027" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HackFest_National-2nd_Runner--Up-FF4380%3Fstyle%3Dflat-square" alt="HackFest 2nd Runner-Up" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AI_for_Bharat_(AWS)-National_Prototype_Finalist-FF9900%3Fstyle%3Dflat-square" alt="AI for Bharat Finalist" />
-</p></div>About MeB.E. in Artificial Intelligence & Machine Learning undergraduate (Class of 2027, Sir MVIT Bengaluru) building full-stack web applications, fault-tolerant REST APIs, and production LLM/RAG workflows.Focus: Full-stack architecture, backend concurrency, automated testing, and Data Structures & Algorithms in Java for 2027 placements.Open to: Software Engineering Internships (Full-Stack, Backend, or AI Engineering) and open-source collaborations.Featured Projects<table>
+</p></div>A little more about me...const nehalika = {
+  pronouns: "she" | "her",
+  code: ["JavaScript", "Python", "Java", "SQL", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Express", "Docker", "Jest", "Postman"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB", "pgvector"],
+  ai: ["LangChain", "LangGraph", "RAG", "Gemini API", "Anthropic API"],
+  architecture: ["REST APIs", "microservices", "RAG pipelines", "agentic workflows"],
+  highlights: {
+    hackfest: "2nd Runner-Up — National 36-Hour Hackathon (NMAMIT)",
+    aiForBharat: "National Prototype Finalist — AWS & Hack2skill",
+    education: "B.E. in AI & ML, Sir MVIT Bengaluru (Class of 2027)"
+  },
+  currentFocus: "Backend systems, concurrency & DSA in Java for 2027 placements"
+};
+Featured Projects<table>
 <tr>
 <td width="33%" valign="top">
 <h4>Clarix</h4>
