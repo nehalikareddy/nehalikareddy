@@ -52,7 +52,6 @@ const nehalika = {
 ### Tech Stack
 
 **Languages**
-
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -63,14 +62,12 @@ const nehalika = {
 </p>
 
 **Frontend**
-
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 **Backend & APIs**
-
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -78,7 +75,6 @@ const nehalika = {
 </p>
 
 **Databases**
-
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -88,7 +84,6 @@ const nehalika = {
 </p>
 
 **AI & Retrieval**
-
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
@@ -98,7 +93,6 @@ const nehalika = {
 </p>
 
 **Tools & Testing**
-
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
@@ -140,15 +134,6 @@ A full-stack medication scheduling and caregiver coordination platform with adhe
 ---
 
 ### GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&hide_border=true&title_color=FF4380&icon_color=FF4380" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalikareddy&layout=compact&theme=radical&hide_border=true&title_color=FF4380" height="165" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalikareddy&bg_color=0d1117&color=ffffff&line=ff4380&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
