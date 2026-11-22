@@ -1,234 +1,164 @@
-&lt;div align=&quot;center&quot;&gt;
 
+<div align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF4380&center=true&vCenter=true&width=700&lines=Nadikatla+Nehalika;Full-Stack+Developer;AI+%26+Backend+Engineer" alt="Typing SVG" />
 
-&lt;a href=&quot;https://git.io/typing-svg&quot;&gt;
+  <h3>Building scalable applications, intelligent systems & meaningful digital experiences.</h3>
 
-  &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=50&amp;pause=1000&amp;color=FF4380&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Nadikatla+Nehalika&quot; alt=&quot;Typing SVG&quot; /&gt;
+  <p>
+    <a href="https://nehalikasportfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF4380?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/nadikatla-nehalika">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:nehalikareddy@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-&lt;/a&gt;
-
-
-
-&lt;h3 align=&quot;center&quot;&gt;Full-Stack Developer | Backend APIs, MERN &amp;amp; AI Engineering&lt;/h3&gt;
-
-
-
-&lt;p align=&quot;center&quot;&gt;
-
-  &lt;a href=&quot;https://nehalikasportfolio.vercel.app/&quot; target=&quot;_blank&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Portfolio-FF4380?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;Portfolio&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://linkedin.com/in/nadikatla-nehalika&quot; target=&quot;_blank&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;mailto:nehalikareddy@gmail.com&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Gmail&quot; /&gt;
-
-  &lt;/a&gt;
-
-&lt;/p&gt;
-
-
-
-&lt;/div&gt;
-
-
+</div>
 
 ---
 
+## 👩‍💻 About Me
 
+I'm an AI & ML engineering student and Full-Stack Developer passionate about building scalable backend systems, AI-powered applications, and intelligent workflows.
 
-### A little more about me...
-
-
-
-```javascript
-
-const nehalika = {
-
-  pronouns: "she" | "her",
-
-  code: ["JavaScript", "Python", "Java", "SQL", "HTML", "CSS"],
-
-  tools: ["React", "Node.js", "Express", "Docker", "Jest", "Postman"],
-
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB", "pgvector"],
-
-  ai: ["LangChain", "LangGraph", "RAG", "Gemini API", "Anthropic API"],
-
-  architecture: ["REST APIs", "microservices", "RAG pipelines", "agentic workflows"],
-
-  highlights: {
-
-    hackfest: "2nd Runner-Up — National 36-Hour Hackathon (NMAMIT)",
-
-    aiForBharat: "National Prototype Finalist — AWS & Hack2skill",
-
-    education: "B.E. in AI & ML, Sir MVIT Bengaluru (Class of 2027)"
-
-  },
-
-  currentFocus: "Backend systems, concurrency & DSA in Java for 2027 placements"
-
-};
-
-```
-
-
+- 🎓 B.E. in Artificial Intelligence & Machine Learning — Sir MVIT, Bengaluru (2027)
+- 💻 Interested in Backend Engineering, MERN Stack & AI Engineering
+- 🤖 Exploring RAG pipelines, Agentic AI and LLM integrations
+- 🏆 2nd Runner-Up at a National 36-Hour Hackathon (NMAMIT)
+- 🚀 National Prototype Finalist — AWS AI for Bharat
+- 🌱 Currently focusing on Backend Systems, Concurrency and DSA in Java
 
 ---
 
+## 🛠️ Tech Stack
 
+**Languages**
 
-### Featured Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-&lt;table&gt;
+**Backend & APIs**
 
-  &lt;tr&gt;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
-    &lt;td width=&quot;33%&quot; valign=&quot;top&quot;&gt;
+**Databases**
 
-      &lt;h4&gt;Clarix&lt;/h4&gt;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-      &lt;sub&gt;AI-Powered Legal Intelligence Platform&lt;/sub&gt;
+**AI & Retrieval**
 
-      &lt;br /&gt;&lt;br /&gt;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4380?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge)
 
-      MERN platform with automated contract risk scoring, JWT/bcrypt auth, rate limiting, Jest unit tests, and a LangChain RAG chat assistant.
+**Tools & Testing**
 
-      &lt;br /&gt;&lt;br /&gt;
-
-      &lt;a href=&quot;https://clarix-psi.vercel.app/&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;Clarix Live Demo&quot; /&gt;
-
-      &lt;/a&gt;
-
-      &lt;a href=&quot;https://www.google.com/search?q=https://github.com/nehalikareddy/Clarix&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Clarix GitHub&quot; /&gt;
-
-      &lt;/a&gt;
-
-    &lt;/td&gt;
-
-    &lt;td width=&quot;33%&quot; valign=&quot;top&quot;&gt;
-
-      &lt;h4&gt;Unshell&lt;/h4&gt;
-
-      &lt;sub&gt;Autonomous AML &amp;amp; KYB Graph &amp;middot; HackFest 2nd Runner-Up&lt;/sub&gt;
-
-      &lt;br /&gt;&lt;br /&gt;
-
-      Decoupled React + Node/Express + Python LangGraph pipeline with DAG cycle detection and sanctions screening, cutting investigations from 2–3 days to under 10s.
-
-      &lt;br /&gt;&lt;br /&gt;
-
-      &lt;a href=&quot;https://unshell-eight.vercel.app/&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;Unshell Live Demo&quot; /&gt;
-
-      &lt;/a&gt;
-
-      &lt;a href=&quot;https://www.google.com/search?q=https://github.com/nehalikareddy/unshell&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Unshell GitHub&quot; /&gt;
-
-      &lt;/a&gt;
-
-    &lt;/td&gt;
-
-    &lt;td width=&quot;33%&quot; valign=&quot;top&quot;&gt;
-
-      &lt;h4&gt;TheCarePal (MedSync)&lt;/h4&gt;
-
-      &lt;sub&gt;Real-Time Medication &amp;amp; Caregiver Platform&lt;/sub&gt;
-
-      &lt;br /&gt;&lt;br /&gt;
-
-      Full-stack medication scheduling, adherence analytics, and real-time caregiver coordination built with React, Vite, Node.js, MongoDB, and Socket.IO.
-
-      &lt;br /&gt;&lt;br /&gt;
-
-      &lt;a href=&quot;https://the-care-pal-amr8.vercel.app/&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;TheCarePal Live Demo&quot; /&gt;
-
-      &lt;/a&gt;
-
-      &lt;a href=&quot;https://www.google.com/search?q=https://github.com/nehalikareddy/TheCarePal&quot; target=&quot;_blank&quot;&gt;
-
-        &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white&quot; alt=&quot;TheCarePal GitHub&quot; /&gt;
-
-      &lt;/a&gt;
-
-    &lt;/td&gt;
-
-  &lt;/tr&gt;
-
-&lt;/table&gt;
-
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
+### 1. Clarix — AI-Powered Legal Intelligence Platform
 
-### Tech Stack
+A MERN-based legal intelligence platform designed to simplify contract analysis and risk assessment.
 
+- Automated contract risk scoring.
+- Secure authentication using JWT and bcrypt.
+- Rate limiting and Jest unit testing.
+- LangChain-powered RAG assistant for legal queries.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&logo=vercel&logoColor=white)](https://clarix-psi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nehalikareddy/Clarix)
 
-| Category | Technologies |
+### 2. Unshell — Autonomous AML & KYB Graph
 
-| :--- | :--- |
+🏆 **2nd Runner-Up — National HackFest**
 
-| **Languages** |      |
+An autonomous financial investigation platform that streamlines Anti-Money Laundering (AML) and Know Your Business (KYB) workflows.
 
-| **AI &amp; Retrieval** |       |
+- React frontend with Node.js and Express backend.
+- Python-based LangGraph processing pipeline.
+- DAG cycle detection and sanctions screening.
+- Reduced investigation time from 2–3 days to under 10 seconds.
 
-| **Frontend** |      |
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&logo=vercel&logoColor=white)](https://unshell-eight.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nehalikareddy/unshell)
 
-| **Backend &amp; APIs** |      |
+### 3. TheCarePal (MedSync) — Real-Time Medication & Caregiver Platform
 
-| **Databases** |       |
+A full-stack healthcare coordination platform designed to improve medication adherence and caregiver communication.
 
-| **Testing &amp; DevOps** |        |
+- Medication scheduling and adherence analytics.
+- Real-time caregiver coordination using Socket.IO.
+- React and Vite frontend.
+- Node.js backend with MongoDB.
 
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4380?style=flat-square&logo=vercel&logoColor=white)](https://the-care-pal-amr8.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nehalikareddy/TheCarePal)
 
 ---
 
+## 🏆 Achievements
 
-
-### Certifications &amp; Programs
-
-
-
-- **Oracle Cloud Infrastructure (OCI)** — AI Foundations Associate &amp; Generative AI Professional
-
-- **Blackbird Australia** — Software Engineering Virtual Experience Program (Forage)
-
-- **Full Stack Web Development** — Apna College
-
-
+| Achievement | Recognition |
+|---|---|
+| National 36-Hour Hackathon — NMAMIT | 🥈 2nd Runner-Up |
+| AWS AI for Bharat — Hack2skill | 🇮🇳 National Prototype Finalist |
 
 ---
 
+## 📜 Certifications
 
+- **Oracle Cloud Infrastructure** — AI Foundations Associate
+- **Oracle Cloud Infrastructure** — Generative AI Professional
+- **Blackbird Australia** — Software Engineering Virtual Experience (Forage)
+- **Apna College** — Full Stack Web Development
 
-&lt;div align=&quot;center&quot;&gt;
+---
 
-  &lt;img src=&quot;https://github-readme-activity-graph.vercel.app/graph?username=nehalikareddy&amp;bg_color=0d1117&amp;color=ffffff&amp;line=ff4380&amp;point=ffffff&amp;area=true&amp;hide_border=true&quot; alt=&quot;Contribution Activity Graph&quot; /&gt;
+## 📊 GitHub Statistics
 
-&lt;/div&gt;
+<div align="center">
 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nehalikareddy&show_icons=true&theme=radical&hide_border=true&title_color=FF4380&icon_color=FF4380" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalikareddy&layout=compact&theme=radical&hide_border=true&title_color=FF4380" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalikareddy&bg_color=0d1117&color=ffffff&line=ff4380&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💗 Thanks for visiting!
+
+  *Always learning. Always building. Always exploring.*
+
+</div>
